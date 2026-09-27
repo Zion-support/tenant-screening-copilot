@@ -9,7 +9,7 @@ Live: https://ziontechgroup.com/tenant-screening-copilot/
 - Document verification and fraud signals
 - Compliance guardrails for fair housing
 
-## Part of the Zion App Network — Batch 54: AI Real Estate & PropTech
+## Part of the Zion App Network — Batch 61: AI Real Estate & PropTech
 - [Property Valuation AI](https://github.com/Zion-support/property-valuation-ai)
 - [Tenant Screening Copilot](https://github.com/Zion-support/tenant-screening-copilot) — this repo
 - [Lease Abstraction AI](https://github.com/Zion-support/lease-abstraction-ai)
